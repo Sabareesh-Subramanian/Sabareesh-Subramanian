@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am Sabareesh Subramanian
+:book: I am learning Full Stack Web Development at Masai School.
 
 <!--
 **Sabareesh-Subramanian/Sabareesh-Subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
