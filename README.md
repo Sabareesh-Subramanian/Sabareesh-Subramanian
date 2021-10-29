@@ -28,7 +28,7 @@ Self-determined and curious about building products.
     <a href="https://twitter.com/sabareesh_16"><img style="width: 30px;margin-left:20px" src="https://cdn-icons-png.flaticon.com/128/124/124021.png" /></a> &nbsp &nbsp &nbsp &nbsp
     <a href="mailto:sabareesh16797@gmail.com"><img style="width: 30px;margin-left:20px" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" /></a> &nbsp &nbsp &nbsp &nbsp
     <a href="https://medium.com/@sabareeshsubramanian"><img style="margin-left:20px;width: 30px;"
-      src="https://cdn-icons.flaticon.com/png/128/4401/premium/4401405.png?token=exp=1633968311~hmac=20a7e8462e7940a8907b25d7a2fd98e9" /></a> &nbsp &nbsp &nbsp &nbsp
+      src="https://www.graphicdesignforum.com/uploads/default/original/2X/0/0e58f26a6dd982e7f04d1286defd4320e6d6153b.jpeg" /></a> &nbsp &nbsp &nbsp &nbsp
   </div>
 <!--
 **Sabareesh-Subramanian/Sabareesh-Subramanian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
